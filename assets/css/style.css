@@ -118,23 +118,20 @@ p {
 
 .benefit-lead img {
     display: block;
-    height: 200px;
     margin: 10px auto;
-    max-width: 150px;
+    height: 150px;
 }
 
 .benefit-brand img {
     display: block;
-    height: 200px;
     margin: 10px auto;
-    max-width: 150px;
+    height: 150px;
 }
 
 .benefit-cost img {
     display: block;
-    height: 200px;
     margin: 10px auto;
-    max-width: 150px;
+    height: 150px;
 }
 
 .search-engine-optimization {
@@ -165,15 +162,15 @@ p {
 }
 
 .search-engine-optimization img {
-    height: 150px;
+    height: 200px;
 }
 
 .online-reputation-management img {
-    height: 150px;
+    height: 200px;
 }
 
 .social-media-marketing img {
-    height: 150px;
+    height: 200px;
 }
 
 .search-engine-optimization h2 {
